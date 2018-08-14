@@ -14,5 +14,5 @@ $ docker build .
 $ docker run -p 8888:8888 <long hash from above>
 ```
 
-Navigate to (here)[http://localhost:8888/], and type the
+Navigate to [here](http://localhost:8888/), and type the
 token shown in your window.
